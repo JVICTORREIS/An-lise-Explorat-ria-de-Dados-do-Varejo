@@ -1,4 +1,4 @@
-# Análise Explratória de Dados no Varejo
+# Explorando Dados do Varejo: Uma Análise Profunda para Insights Estratégicos
 
 ### Introdução: 
 A análise exploratória de dados, trata-se da etapa preliminar e fundamental para compreender um conjunto de dados, esta etapa envolve a exploração, resumo e visualização dos dados para identificar padrões, tendências, anomalias, relacionamentos e gerar insights iniciais. 
